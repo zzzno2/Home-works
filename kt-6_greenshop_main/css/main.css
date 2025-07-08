@@ -52,7 +52,7 @@ header{
 .main-buner{
     background: linear-gradient(98deg, rgba(245, 245, 245, 0.50) -23.46%, rgba(245, 245, 245, 0.50) 107.51%);
     margin-top: 12px;
-    padding: 68px 0px 0px 43px;
+    padding: 68px 43px;
     display:flex;
     justify-content: space-between;
 }
@@ -73,6 +73,7 @@ header{
     font-weight: 900;
     line-height: 70px;
     max-width: 530px;
+    text-transform: uppercase;
     /* text-transform: uppercase; ламае тся из-за того что шрифт другой */
 }
 
